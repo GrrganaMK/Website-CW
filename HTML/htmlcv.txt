@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<title>Gergana Kircheva</title>
+</head>
+<body>
+<header>
+<h1 align='center'>Gergana Kircheva CV</h1>
+<footer>
+<p>Gergana Kircheva</p>
+<p>7 Granton Place, Aberdeen, UK</p>
+<p>07593326523</p>
+<p>gkircheva97@gmail.com</p>
+</footer>
+<h2>Education</h2>
+</section>
+<hr/>
+<h3>2017-present</h3>
+<p><font size='4'>Robert Gordon University<br>
+<font size='2'>Digital media</br></p>
+<h3>2016-2017</h3>
+<p><font size='4'>Sofia University<br>
+<font size='2'>Informatics</br></p>
+<h3>2011-2016</h3>
+<p><font size='4'>Foreign Language School</br>
+<font size='2'>English language and French language</br></p>
+<h2>Work Experience</h2>
+<hr/>
+<h3>2017-present<h3>
+<p><font size='4'>Cruise Aberdeen<br>
+<font size='2'>Sales assistant</br></p>
+<h3>2015-2016</h3>
+<p><font size='4'>Tremina Trade<br>
+<font size='2'>Sales representative</br></p>
+
+
+
+

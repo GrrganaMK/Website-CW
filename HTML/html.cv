@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<title>Gergana M. Kircheva</title>
+</head>
+<body>
+<header>
+<h1 align='center'>Gergana M. Kircheva</h1>
+</header>
+<footer>
+<p Gergana Kircheva</p>
+<p>07583396555</p>
+<p>gerganak@gmail.com</p>
+</footer>
+<main>
+<section>
+<h2>Education</h2>
+</section>
+<hr/>
+<ul>
+<li type='square'><h3>2017-present<h3></li>
+</ul>
+<p><font size='4'>Robert Gordon University<br>
+<font size='3'><em>Digital Media</em></p>
+<ul>
+<li type='square'><h3>2016-2017</h3></li>
+</ul>
+<p><font size='4'>Sofia University<br>
+<font size='3'><em>Informatics</em></p>
+<ul>
+<li type='square'><h3>2011-2016</h3></li>
+</ul>
+<p><font size='4'>Foreign Language School<br>
+<font size='3'><em>English Language and French Language</em></p>
+<section>
+<h2>Work experience</h2>
+</section>
+<hr/>
+<ul>
+<li type='square'><h3>2017-present</h3></li>
+</ul>
+<p><font size='4'>Cruise Aberdeen<br>
+<font size='3'><em>Sales Assistant</em></p>
+<ul>
+<li type='square'><h3>2015-2016</h3></li>
+</ul>
+<p><font size='4'>Tremina Trade<br>
+<font size='3'><em>Sales Representative</em></p>
+<section>
+<h2>Skills</h2>
+</section>
+<hr/>
+<ol>
+<li><h4>PS</h4></li>
+<progress value='6' max='10'>
+</progress>
+<li><h4>AI</h4></li>
+<progress value='7' max='10'>
+</progress>
+<li><h4>BR</h4></li>
+<progress value ='4' max='10'>
+</progress>
+<li><h4>HTML5</h4></li>
+<progress value='10' max='10'>
+</progress>
+<li><h4>C++</h4></li>
+<progress value='5' max='10'>
+</progress>
+</ol>
+<h2>Languages</h2>
+<hr/>
+<ul>
+<p><font size='4'><strong><li type='square'>Bulgarian</li></strong><em>Mother language</em>
+<br><br>
+<strong><li type='square'>English</li></strong><em>B2</em>
+<br><br>
+<strong><li type='square'>French</li></strong><em>B</em></p>
+</ul>
+<h2>Interests</h2>
+<hr/>
+<ul>
+<li type='square'>Photography</li>
+<li type='square'>Art</li>
+<li type='square'>Travelling</li>
+<li type='square'>Psychology</li>
+<li type='square'>Dancing</li>
+</ul>
+<h2>About me</h2>
+<p><em>I am enthusiastic Digital Media student.I am motivated<br>
+hardworking and I would like to develop myself profesionally.</em></p>
+<hr/>
+<footer>
+<h5 align='right'>Last updated</h5>
+<h6 align='right'>11/10/2017</h6>
+
+
